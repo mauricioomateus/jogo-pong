@@ -40,7 +40,7 @@ function preload(){
 
 function setup() {
   createCanvas(800, 600);
-  //trilha.loop();
+  trilha.loop();
 }
 
 function draw() {
